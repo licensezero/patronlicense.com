@@ -1,0 +1,1 @@
+rsync -a --delete $(git ls-files) patronlicense.com:/var/www/patronlicense.com/
