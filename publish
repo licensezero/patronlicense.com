@@ -1,1 +1,1 @@
-rsync -a --delete $(git ls-files) patronlicense.com:/var/www/patronlicense.com/
+rsync -a --delete index.html versions patronlicense.com:/var/www/patronlicense.com/
